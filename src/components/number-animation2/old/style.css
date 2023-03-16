@@ -1,0 +1,15 @@
+.bounchNum { 
+  background: crimson; 
+  width: auto;
+  height:auto;
+  padding: 2px;
+}
+
+#number {
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+}
